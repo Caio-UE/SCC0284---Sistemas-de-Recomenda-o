@@ -15,9 +15,9 @@ Este projeto visa ensinar, de forma prática e interativa, o conceito de **Priva
 
 O projeto é composto por três partes integradas:
 
-1.  ** Tutorial Interativo (Jupyter Notebook):** O arquivo `Privacidade_Diferencial.ipynb` contém todo o código explicado passo-a-passo.
-2.  ** Videoaula:** Uma explicação visual dos conceitos e demonstração do código. [Clique aqui para assistir](LINK_DO_SEU_VIDEO_AQUI).
-3.  ** Código Fonte:** Implementação utilizando a biblioteca `diffprivlib` da IBM.
+1.  ** Tutorial Interativo (Jupyter Notebook): ** O arquivo `Privacidade_Diferencial.ipynb` contém todo o código explicado passo-a-passo.
+2.  ** Videoaula: ** Uma explicação visual dos conceitos e demonstração do código. [Clique aqui para assistir](LINK_DO_SEU_VIDEO_AQUI).
+3.  ** Código Fonte: ** Implementação utilizando a biblioteca `diffprivlib` da IBM.
 
 ## O Cenário de Teste ("Toy Story")
 
